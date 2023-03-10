@@ -1,0 +1,26 @@
+*{ margin: 0; padding: 0;}
+body{background-color: #FFFFFF;padding: 40px;font-family: 'Roboto', sans-serif; box-sizing: border-box; overflow-x: hidden;}
+.header{display: flex;justify-content: space-between;}
+.header a {color: #22C38A; position: relative;top: 10px;}
+.herocon{font-style: normal;font-weight: 900; font-size: 90px; line-height: 110px; width: 619px;color: #333333; margin-bottom: 20px; margin-top: 55px; }
+.subcon{font-style: normal;font-weight: 500; font-size: 20px; line-height: 32px;width: 526px;color: #888888;margin-bottom: 20px;}
+.hero{display: flex;justify-content: space-between; margin-top: 80px; z-index: 10; position: relative;}
+.left{margin-top: 15px;}
+.green{width: 860px; height: auto;background: #22C38A;box-shadow: 3px 3px 30px 10px rgba(41, 179, 131, 0.15);border-radius: 20px;padding-bottom: 90px; padding-top: 90px;}
+.bigcon{font-style: normal; font-weight: 700; font-size: 34px; line-height: 48px; padding-left: 50px;padding-right: 50px;width: 760px;letter-spacing: -0.4px; color: #FFFFFF;}
+.smallcon{font-style: normal; font-weight: 700; font-size: 16px; line-height: 26px; letter-spacing: 2px; text-transform: uppercase; padding-left: 50px; margin-bottom: 20px;  color: #FFFFFF;}
+.white{width: 350px; height: auto; background: #FFFFFF;box-shadow: 3px 3px 30px 10px rgba(201, 217, 211, 0.15);border-radius: 20px; margin-right: 100px; padding-left: 60px; padding-top: 50px;}
+section{display: flex; justify-content: space-around;margin-top: 50px; z-index: 10;position: relative;}
+.list li{margin-bottom: 60px;width: 300px; font-style: normal; font-weight: 700; font-size: 16px;line-height: 22px;
+list-style-image: url(images/fa-bullseye.svg); letter-spacing: 2px; text-transform: uppercase; color: #333333;}
+.elips{position: absolute; left: 27pc; top: 25pc; width: 1600px;height: 1100.34px;border-radius: 50%;background: #F2FAF6;transform: rotate(-11.87deg);}
+.wrapper{max-width: 1563px; margin: auto;}
+.box{margin-top: 200px;margin-bottom: 300px;}
+.question{height: 52px;font-style: normal;font-weight: 700;font-size: 42px;line-height: 52px;text-align: center;letter-spacing: 0.6px;
+color: #333333;margin-bottom: 32px;}
+.innerbox{display: flex; justify-content: space-around;}
+.boxcon{text-align: center; height: 378px;border: 2px solid #EBEAED;
+border-radius: 20px; padding: 50px; padding-bottom: 0px;}
+.text{ width: 312px; font-weight: 400; font-size: 18px; line-height: 26px;text-align: center;color: #999999;}
+.boxcon img{margin-bottom: 32px;}
+.black{margin-bottom: 42px; font-weight: 500;font-size: 22px;line-height: 32px;text-align: center; color: #333333;}
